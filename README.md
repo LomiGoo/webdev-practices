@@ -5,4 +5,4 @@ Practices
 
 Misc.
 
-2. [Misc 1](https://lomigoo.github.io/webdev-practices/what-is-this/)
+1. [Misc 1](https://lomigoo.github.io/webdev-practices/what-is-this/oopz.html)
