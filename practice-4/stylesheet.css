@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+}
+
+#jackpotContainer {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+#slotContainer {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    min-height: 50vh;
+    height: 55vh;
+    align-items: center;
+}
+
+.Slot {
+    border: 1px solid; 
+    padding: 10dvw;
+    font-size: 3em;
+    
+}
+
+#gambleBtn {
+    padding: 1rem;
+    font-weight: bold;
+    width: 10rem;
+}
