@@ -23,12 +23,12 @@ PVE & PVP rpg turn-based gameplay website
     -[] Attack Stats
     -[] Defense Stats
 
-- [] Battle System
-    -[] HP Bar
-
 - [] Combat Turn Styles
     -[] Core Rock-Paper-Scissor Style (Blunt, Slam, Cut) logic
     -[] Tie rule: both receive fixed damage
+
+- [] Battle System
+    -[] HP Bar
 
 - [] Actions
     -[] Attack Action
@@ -75,3 +75,11 @@ PVE & PVP rpg turn-based gameplay website
     -[] Accounts
     -[] Leaderboard
 ----------------------
+## Bullet Trace
+
+1. Show Play Button 
+2. Show Game Modes
+3. Show Character Selection
+4. Show Combat Turn Style
+5. Show BattleField
+6. Show Win / Lose Display
