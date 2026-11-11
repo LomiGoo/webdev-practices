@@ -58,7 +58,7 @@ PVE & PVP rpg turn-based gameplay website
     -[] Ultimate Skill
 
 - [] Cooldowns
-    -[] Ultimate Cooldown — triggers turn 6, refreshes after use
+    -[] Ultimate Cooldown — triggers turn 6, refreshes after use.
 
 - [] Damage Calculation
     -[] Ultimate
